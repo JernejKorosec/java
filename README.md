@@ -1,2 +1,2 @@
-# java
+# JAVA
 Java Root containing Java projects
